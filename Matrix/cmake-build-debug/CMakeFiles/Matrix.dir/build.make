@@ -42,10 +42,10 @@ RM = "D:\CLion 2018.2.5\bin\cmake\win\bin\cmake.exe" -E remove -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = C:\Users\Kluk\CLionProjects\Matrix
+CMAKE_SOURCE_DIR = C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = C:\Users\Kluk\CLionProjects\Matrix\cmake-build-debug
+CMAKE_BINARY_DIR = C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\cmake-build-debug
 
 # Include any dependencies generated for this target.
 include CMakeFiles/Matrix.dir/depend.make
@@ -58,42 +58,42 @@ include CMakeFiles/Matrix.dir/flags.make
 
 CMakeFiles/Matrix.dir/main.cpp.obj: CMakeFiles/Matrix.dir/flags.make
 CMakeFiles/Matrix.dir/main.cpp.obj: ../main.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kluk\CLionProjects\Matrix\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Matrix.dir/main.cpp.obj"
-	C:\MinGW\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Matrix.dir\main.cpp.obj -c C:\Users\Kluk\CLionProjects\Matrix\main.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Building CXX object CMakeFiles/Matrix.dir/main.cpp.obj"
+	C:\MinGW\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Matrix.dir\main.cpp.obj -c C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\main.cpp
 
 CMakeFiles/Matrix.dir/main.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Matrix.dir/main.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kluk\CLionProjects\Matrix\main.cpp > CMakeFiles\Matrix.dir\main.cpp.i
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\main.cpp > CMakeFiles\Matrix.dir\main.cpp.i
 
 CMakeFiles/Matrix.dir/main.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Matrix.dir/main.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kluk\CLionProjects\Matrix\main.cpp -o CMakeFiles\Matrix.dir\main.cpp.s
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\main.cpp -o CMakeFiles\Matrix.dir\main.cpp.s
 
 CMakeFiles/Matrix.dir/src/Matrix.cpp.obj: CMakeFiles/Matrix.dir/flags.make
 CMakeFiles/Matrix.dir/src/Matrix.cpp.obj: ../src/Matrix.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kluk\CLionProjects\Matrix\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Matrix.dir/src/Matrix.cpp.obj"
-	C:\MinGW\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Matrix.dir\src\Matrix.cpp.obj -c C:\Users\Kluk\CLionProjects\Matrix\src\Matrix.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_2) "Building CXX object CMakeFiles/Matrix.dir/src/Matrix.cpp.obj"
+	C:\MinGW\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Matrix.dir\src\Matrix.cpp.obj -c C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\src\Matrix.cpp
 
 CMakeFiles/Matrix.dir/src/Matrix.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Matrix.dir/src/Matrix.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kluk\CLionProjects\Matrix\src\Matrix.cpp > CMakeFiles\Matrix.dir\src\Matrix.cpp.i
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\src\Matrix.cpp > CMakeFiles\Matrix.dir\src\Matrix.cpp.i
 
 CMakeFiles/Matrix.dir/src/Matrix.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Matrix.dir/src/Matrix.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kluk\CLionProjects\Matrix\src\Matrix.cpp -o CMakeFiles\Matrix.dir\src\Matrix.cpp.s
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\src\Matrix.cpp -o CMakeFiles\Matrix.dir\src\Matrix.cpp.s
 
 CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.obj: CMakeFiles/Matrix.dir/flags.make
 CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.obj: ../src/Matrix_Functions.cpp
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kluk\CLionProjects\Matrix\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.obj"
-	C:\MinGW\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Matrix.dir\src\Matrix_Functions.cpp.obj -c C:\Users\Kluk\CLionProjects\Matrix\src\Matrix_Functions.cpp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --progress-dir=C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_3) "Building CXX object CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.obj"
+	C:\MinGW\bin\c++.exe  $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -o CMakeFiles\Matrix.dir\src\Matrix_Functions.cpp.obj -c C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\src\Matrix_Functions.cpp
 
 CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.i: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Preprocessing CXX source to CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.i"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kluk\CLionProjects\Matrix\src\Matrix_Functions.cpp > CMakeFiles\Matrix.dir\src\Matrix_Functions.cpp.i
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -E C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\src\Matrix_Functions.cpp > CMakeFiles\Matrix.dir\src\Matrix_Functions.cpp.i
 
 CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.s: cmake_force
 	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green "Compiling CXX source to assembly CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.s"
-	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kluk\CLionProjects\Matrix\src\Matrix_Functions.cpp -o CMakeFiles\Matrix.dir\src\Matrix_Functions.cpp.s
+	C:\MinGW\bin\c++.exe $(CXX_DEFINES) $(CXX_INCLUDES) $(CXX_FLAGS) -S C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\src\Matrix_Functions.cpp -o CMakeFiles\Matrix.dir\src\Matrix_Functions.cpp.s
 
 # Object files for target Matrix
 Matrix_OBJECTS = \
@@ -111,7 +111,7 @@ Matrix.exe: CMakeFiles/Matrix.dir/build.make
 Matrix.exe: CMakeFiles/Matrix.dir/linklibs.rsp
 Matrix.exe: CMakeFiles/Matrix.dir/objects1.rsp
 Matrix.exe: CMakeFiles/Matrix.dir/link.txt
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kluk\CLionProjects\Matrix\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Matrix.exe"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --green --bold --progress-dir=C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\cmake-build-debug\CMakeFiles --progress-num=$(CMAKE_PROGRESS_4) "Linking CXX executable Matrix.exe"
 	$(CMAKE_COMMAND) -E cmake_link_script CMakeFiles\Matrix.dir\link.txt --verbose=$(VERBOSE)
 
 # Rule to build all files generated by this target.
@@ -124,6 +124,6 @@ CMakeFiles/Matrix.dir/clean:
 .PHONY : CMakeFiles/Matrix.dir/clean
 
 CMakeFiles/Matrix.dir/depend:
-	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Kluk\CLionProjects\Matrix C:\Users\Kluk\CLionProjects\Matrix C:\Users\Kluk\CLionProjects\Matrix\cmake-build-debug C:\Users\Kluk\CLionProjects\Matrix\cmake-build-debug C:\Users\Kluk\CLionProjects\Matrix\cmake-build-debug\CMakeFiles\Matrix.dir\DependInfo.cmake --color=$(COLOR)
+	$(CMAKE_COMMAND) -E cmake_depends "MinGW Makefiles" C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\cmake-build-debug C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\cmake-build-debug C:\Users\Kluk\CLionProjects\Learning-Cpp\Matrix\cmake-build-debug\CMakeFiles\Matrix.dir\DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/Matrix.dir/depend
 

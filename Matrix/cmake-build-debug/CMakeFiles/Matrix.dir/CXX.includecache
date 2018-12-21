@@ -6,45 +6,45 @@
 
 #IncludeRegexTransform: 
 
-C:/Users/Kluk/CLionProjects/Matrix/include/Matrix.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
 vector
 -
 iostream
 -
 Shape.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Shape.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Shape.hpp
 
-C:/Users/Kluk/CLionProjects/Matrix/include/Matrix_Functions.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Functions.hpp
 Matrix.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Matrix.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
 algorithm
 -
 cmath
 -
 
-C:/Users/Kluk/CLionProjects/Matrix/include/Shape.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Shape.hpp
 
-C:/Users/Kluk/CLionProjects/Matrix/main.cpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/main.cpp
 include/Matrix.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Matrix.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
 src/Matrix.cpp
-C:/Users/Kluk/CLionProjects/Matrix/src/Matrix.cpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix.cpp
 include/Shape.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Shape.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Shape.hpp
 include/Matrix_Functions.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Matrix_Functions.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Functions.hpp
 src/Matrix_Functions.cpp
-C:/Users/Kluk/CLionProjects/Matrix/src/Matrix_Functions.cpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix_Functions.cpp
 
-C:/Users/Kluk/CLionProjects/Matrix/src/Matrix.cpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix.cpp
 ../include/Matrix.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Matrix.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
 ../include/Shape.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Shape.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Shape.hpp
 
-C:/Users/Kluk/CLionProjects/Matrix/src/Matrix_Functions.cpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix_Functions.cpp
 ../include/Matrix_Functions.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Matrix_Functions.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Functions.hpp
 ../include/Matrix.hpp
-C:/Users/Kluk/CLionProjects/Matrix/include/Matrix.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
 

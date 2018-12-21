@@ -13,6 +13,6 @@ static bool abs_compare(float a, float b)
 int main() {
 
     vector<float> vect{3, 6, 3, 2, 14, 7, 4};
-    cout << distance(vect.begin(), max_element(vect.begin(), vect.end(), abs_compare)) << endl;
+    cout << distance(vect.begin(), max_element(vect.begin(), vect.end())) << endl;
     return 0;
 }
