@@ -13,6 +13,5 @@ template <typename T> Matrix<T> transposed(const Matrix<T>& A);
 
 template <typename T> float det(const Matrix<T>& A);
 
-template <typename T> static bool abs_compare(T a, T b);
 
 #endif //MATRIX_MATRIX_FUNCTIONS_HPP

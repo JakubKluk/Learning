@@ -8,6 +8,7 @@
 #include <vector>
 #include <iostream>
 #include "Shape.hpp"
+#include <typeinfo>
 
 using namespace std;
 

@@ -4,15 +4,13 @@
 #include "include/Matrix_Functions.hpp"
 #include "src/Matrix_Functions.cpp"
 
-
-static bool abs_compare(float a, float b)
-{
-    return abs(a)<abs(b);
-}
-
 int main() {
-
-    vector<float> vect{3, 6, 3, 2, 14, 7, 4};
-    cout << distance(vect.begin(), max_element(vect.begin(), vect.end())) << endl;
+    vector<vector<int>> g{
+            {2, 3, 1},
+            {1, 2, 4},
+            {2, -2, 1}
+    };
+    Matrix<int> gyg(g);
+    cout << det(gyg) << endl;
     return 0;
 }
