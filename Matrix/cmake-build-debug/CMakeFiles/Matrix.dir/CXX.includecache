@@ -16,6 +16,10 @@ C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Shape.hpp
 typeinfo
 -
 
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Exceptions.hpp
+stdexcept
+-
+
 C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Functions.hpp
 Matrix.hpp
 C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
@@ -49,4 +53,6 @@ C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix_Functions.cpp
 C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Functions.hpp
 ../include/Matrix.hpp
 C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
+../include/Matrix_Exceptions.hpp
+C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Exceptions.hpp
 

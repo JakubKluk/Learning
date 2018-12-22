@@ -3,6 +3,7 @@
 
 CMakeFiles/Matrix.dir/main.cpp.obj
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
+ C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Exceptions.hpp
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Functions.hpp
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Shape.hpp
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/main.cpp
@@ -14,6 +15,7 @@ CMakeFiles/Matrix.dir/src/Matrix.cpp.obj
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix.cpp
 CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.obj
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp
+ C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Exceptions.hpp
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Functions.hpp
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Shape.hpp
  C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix_Functions.cpp

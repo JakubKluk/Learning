@@ -3,6 +3,7 @@
 //
 #include "../include/Matrix_Functions.hpp"
 #include "../include/Matrix.hpp"
+#include "../include/Matrix_Exceptions.hpp"
 
 
 
@@ -21,6 +22,10 @@ template <typename T> Matrix<T> transposed(const Matrix<T>& A)
 
 
 template <typename T> float det(const Matrix<T>& A) {
+    if (A.get_number_of_cols()!=A.get_number_of_rows())
+    {
+        throw NotASquareException();
+    }
     vector<vector<float>> helper;
     vector<float> helper2;
     for (unsigned int i=0; i!=A.get_number_of_rows(); ++i)
@@ -49,6 +54,10 @@ template <typename T> float det(const Matrix<T>& A) {
             column.push_back(B[j][i]);
         }
         main_elem = max_element(column.begin(), column.end(), [](float a, float b){return abs(a)<abs(b);});
+        if (*main_elem==0)
+        {
+            return 0;
+        }
         position = distance(column.begin(), main_elem);
         if (position!=0)
         {

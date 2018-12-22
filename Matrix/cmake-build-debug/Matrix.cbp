@@ -85,6 +85,9 @@
 		<Unit filename="C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix.hpp">
 			<Option target="Matrix"/>
 		</Unit>
+		<Unit filename="C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Exceptions.hpp">
+			<Option target="Matrix"/>
+		</Unit>
 		<Unit filename="C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/include/Matrix_Functions.hpp">
 			<Option target="Matrix"/>
 		</Unit>

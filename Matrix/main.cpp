@@ -6,9 +6,9 @@
 
 int main() {
     vector<vector<int>> g{
-            {2, 3, 1},
-            {1, 2, 4},
-            {2, -2, 1}
+            {2, 0, 1},
+            {2, 0, 2},
+            {1, 0,7}
     };
     Matrix<int> gyg(g);
     cout << det(gyg) << endl;

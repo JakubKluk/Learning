@@ -13,7 +13,6 @@ private:
     unsigned int cols;
 public:
     Shape(const unsigned int& _rows, const unsigned int& _cols): rows(_rows), cols(_cols){}
-    bool is_square() {return cols==rows;}
     unsigned int get_number_of_rows() const {return rows;}
     unsigned int get_number_of_cols() const {return cols;}
     void set_number_of_rows(const unsigned int& row) {rows = row;}
