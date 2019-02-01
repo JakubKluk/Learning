@@ -1,3 +1,3 @@
-# Learning-Cpp
+# Learning
 
-My C++ learning projects.
+My programming languages learning projects.
