@@ -59,7 +59,7 @@ template <typename T> float det(const Matrix<T>& A) {
             return 0;
         }
         position = distance(column.begin(), main_elem);
-        if (position!=0)
+        if ((position-i)!=0)
         {
             B.swap_rows(i, static_cast<unsigned int>(position));
             sign = sign*(-1);

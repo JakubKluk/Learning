@@ -178,3 +178,18 @@
 	<cstdlib>
 	"Komiwoja.hpp"
 
+1542305390 source:d:\repozytoria\learning\cpp\komiwoja\komiwoja.cpp
+	<iostream>
+	<cstdlib>
+	"Komiwoja.hpp"
+
+1542305851 d:\repozytoria\learning\cpp\komiwoja\include\komiwoja.hpp
+	<iostream>
+	<cmath>
+	<vector>
+	<algorithm>
+
+1542305590 source:d:\repozytoria\learning\cpp\komiwoja\src\komiwoja.cpp
+	"Komiwoja.hpp"
+	<iostream>
+

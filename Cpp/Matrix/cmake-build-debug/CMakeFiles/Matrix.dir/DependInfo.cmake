@@ -4,9 +4,9 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_CXX
-  "C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/main.cpp" "C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/main.cpp.obj"
-  "C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix.cpp" "C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/src/Matrix.cpp.obj"
-  "C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/src/Matrix_Functions.cpp" "C:/Users/Kluk/CLionProjects/Learning-Cpp/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.obj"
+  "D:/Repozytoria/Learning/Cpp/Matrix/main.cpp" "D:/Repozytoria/Learning/Cpp/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/main.cpp.obj"
+  "D:/Repozytoria/Learning/Cpp/Matrix/src/Matrix.cpp" "D:/Repozytoria/Learning/Cpp/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/src/Matrix.cpp.obj"
+  "D:/Repozytoria/Learning/Cpp/Matrix/src/Matrix_Functions.cpp" "D:/Repozytoria/Learning/Cpp/Matrix/cmake-build-debug/CMakeFiles/Matrix.dir/src/Matrix_Functions.cpp.obj"
   )
 set(CMAKE_CXX_COMPILER_ID "GNU")
 
