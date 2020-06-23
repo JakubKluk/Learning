@@ -8,4 +8,4 @@ Further informations about parameters and
 functions are in the script as a comments.
 Here are a few examples:
 
-![ScreenShot](https://github.com/JakubKluk/Learning/tree/master/Cpp/SFML/Examples/archipelagos1.png)
+![ScreenShot](https://github.com/JakubKluk/Learning/tree/master/Cpp/SFML/Examples/archipelagos1.PNG)
