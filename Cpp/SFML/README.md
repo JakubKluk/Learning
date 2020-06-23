@@ -6,5 +6,6 @@ It can work in two modes: creating archipelagos
 land mass in the center of the window.
 Further informations about parameters and
 functions are in the script as a comments.
-In folder named "Examples" there are few 
-.png's showing effects of the program.
+Here are a few examples:
+
+![alt text](https://github.com/JakubKluk/Learning/tree/master/Cpp/SFML/Examples/archipelagos1.PNG "Archipelago 1")
