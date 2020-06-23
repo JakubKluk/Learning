@@ -8,4 +8,4 @@ Further informations about parameters and
 functions are in the script as a comments.
 Here are a few examples:
 
-![alt text](https://github.com/JakubKluk/Learning/tree/master/Cpp/SFML/Examples/archipelagos1.PNG "Archipelago 1")
+![ScreenShot](https://github.com/JakubKluk/Learning/tree/master/Cpp/SFML/Examples/archipelagos1.PNG)
