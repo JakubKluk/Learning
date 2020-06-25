@@ -1,0 +1,37 @@
+{
+   guistr: "# # String gsaved with Nlview 6.4.10  2014-10-02 bk=1.3207 VDI=35 GEI=35 GUI=JA:1.6
+#  -string -flagsOSRD
+preplace port vga_pVSync -pg 1 -y 580 -defaultsOSRD
+preplace port vga_pHSync -pg 1 -y 560 -defaultsOSRD
+preplace port hdmi_out_en -pg 1 -y 20 -defaultsOSRD
+preplace port hdmi_hpd -pg 1 -y 90 -defaultsOSRD
+preplace port sys_clock -pg 1 -y 220 -defaultsOSRD
+preplace port hdmi_in -pg 1 -y 70 -defaultsOSRD
+preplace port hdmi_in_ddc -pg 1 -y 140 -defaultsOSRD
+preplace portBus vga_pGreen -pg 1 -y 520 -defaultsOSRD
+preplace portBus vga_pRed -pg 1 -y 500 -defaultsOSRD
+preplace portBus vga_pBlue -pg 1 -y 540 -defaultsOSRD
+preplace inst xlconstant_0 -pg 1 -lvl 1 -y 100 -defaultsOSRD
+preplace inst xlconstant_1 -pg 1 -lvl 3 -y 90 -defaultsOSRD
+preplace inst clk_wiz_0 -pg 1 -lvl 2 -y 370 -defaultsOSRD
+preplace inst dvi2rgb_0 -pg 1 -lvl 2 -y 110 -defaultsOSRD
+preplace inst rgb2vga_0 -pg 1 -lvl 2 -y 540 -defaultsOSRD
+preplace netloc rgb2vga_0_vga_pRed 1 2 2 N 500 NJ
+preplace netloc xlconstant_1_dout 1 3 1 N
+preplace netloc rgb2vga_0_vga_pGreen 1 2 2 N 520 NJ
+preplace netloc dvi2rgb_0_vid_pVDE 1 1 2 280 300 600
+preplace netloc sys_clock_1 1 0 2 NJ 220 230
+preplace netloc hdmi_in_1 1 0 2 NJ 150 280
+preplace netloc dvi2rgb_0_DDC 1 2 2 N 140 NJ
+preplace netloc dvi2rgb_0_vid_pHSync 1 1 2 270 250 610
+preplace netloc xlconstant_0_dout 1 1 3 240 260 NJ 260 760
+preplace netloc rgb2vga_0_vga_pVSync 1 2 2 N 580 NJ
+preplace netloc rgb2vga_0_vga_pHSync 1 2 2 N 560 NJ
+preplace netloc dvi2rgb_0_vid_pData 1 1 2 260 240 620
+preplace netloc dvi2rgb_0_vid_pVSync 1 1 2 290 310 630
+preplace netloc clk_wiz_0_clk_out1 1 1 2 290 230 590
+preplace netloc rgb2vga_0_vga_pBlue 1 2 2 N 540 NJ
+preplace netloc dvi2rgb_0_PixelClk 1 1 2 250 270 580
+levelinfo -pg 1 90 170 440 700 780
+",
+}
