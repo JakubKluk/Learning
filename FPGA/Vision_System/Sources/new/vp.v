@@ -84,7 +84,7 @@ module vp
     
     
     //conversion from RGB to YCrCb
-    rgb2ycbcr_0 converter
+    rgb2ycbcr converter
     (
         .clk(clk),
         .de_in(de_in),
